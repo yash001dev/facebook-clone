@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Live Viewing`
+
+Open [https://facebook-clone-f47b5.web.app/](https://facebook-clone-f47b5.web.app/) to live viewing.
+
 ### `npm start`
 
 Runs the app in the development mode.\
